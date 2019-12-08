@@ -20,3 +20,6 @@ function sayHiToGrandma(string){
 function sayHiToGrandma (string) {
   var unAnswr = "I can't hear you!";
 }
+function sayHiToGrandma (string) {
+  var cantUnswer = "I can't hear you!";
+}

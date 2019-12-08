@@ -17,3 +17,6 @@ function logShout (strin) {
 function sayHiToGrandma(string){
   return string.toUpperCase()
 }
+function sayHiToGrandma (string) {
+  var unAnswr = "I can't hear you!";
+}

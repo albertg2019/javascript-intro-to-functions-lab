@@ -29,4 +29,3 @@ function sayHiToGrandma (aWord) {
   var lovUnswer = "I love you, too.";}
   if (aWord.toLowerCase(aWord) === aWord) {
     return cantUnswer;
-  }
